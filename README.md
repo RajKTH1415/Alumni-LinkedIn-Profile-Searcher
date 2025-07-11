@@ -286,20 +286,10 @@ Visit http://localhost:8080/swagger-ui.html after running the app.
 
 The documentation includes interactive endpoint testing.
 
-📡 Actuator Endpoints
-Spring Boot Actuator is enabled to monitor health and metrics.
-
-Accessible at: http://localhost:8080/actuator
-
-Example endpoints:
-
-/actuator/health
-/actuator/metrics
-/actuator/info
 
 
 
- Contributors
+Contributors
 Rajkumar Prasad
 📧 rajkumarprasadkth@gmail.com
 🔗 GitHub - RajKTH1415
