@@ -29,7 +29,7 @@ public class OpenApiConfig {
                                 .url("https://www.apache.org/licenses/LICENSE-2.0.html")))
                 .externalDocs(new ExternalDocumentation()
                         .description("GitHub Repository")
-                        .url(""));
+                        .url("https://github.com/RajKTH1415/Alumni-LinkedIn-Profile-Searcher"));
     }
 
 }
